@@ -1,2 +1,4 @@
 # hello-world
-Ideas
+
+A repository to store ideas and rough drafts
+
